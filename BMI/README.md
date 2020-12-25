@@ -7,5 +7,5 @@ You can see how to setup intellij according to your operating system from https:
 
 ScreenShots:
 
-![](screenshots/Screenshot1.png)
-![](screenshots/Screenshot2.png)
+![](screenshots/Screenshot%201.png)
+![](screenshots/Screenshot%202.png)
